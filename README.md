@@ -1,5 +1,5 @@
 # Turndown SSML
-Convert SSML into markdown files, useful for bots that utilize both voice and text chat
+A [Turndown](https://github.com/domchristie/turndown) plugin to convert [SSML](https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language) into markdown files, useful for bots that utilize both voice and text chat
 
 ## Installation
 
