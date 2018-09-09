@@ -27,8 +27,8 @@ ES6+
 ```
 
 ## Tag support
-- *speak*, Replaced with nothing
-- *s*, Adds a new line before and after content
-- *break*, Depending on strength attribute replaces with nothing, a comma, or ellipsis. [See here](https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html#break)
+- [speak](https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html#speak) - Replaced with nothing
+- [s](https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html#s) - Adds a new line before and after content
+- [break](https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html#break) - Depending on strength attribute replaces with nothing, a comma, or ellipsis
 
 If there is a tag not yet supported it just means we haven't got around to adding an implementation yet. Contributions and maintainers welcome.
