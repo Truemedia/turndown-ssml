@@ -1,6 +1,6 @@
 {
   "name": "turndown-ssml",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert SSML into markdown files, useful for bots that utilize both voice and text chat",
   "main": "src/ssml.js",
   "directories": {
