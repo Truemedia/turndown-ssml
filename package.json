@@ -1,0 +1,33 @@
+{
+  "name": "turndown-ssml",
+  "version": "0.0.1",
+  "description": "Convert SSML into markdown files, useful for bots that utilize both voice and text chat",
+  "main": "src/ssml.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/turndown-ssml.git"
+  },
+  "keywords": [
+    "turndown",
+    "turndown-plugin",
+    "html-to-markdown",
+    "html",
+    "markdown",
+    "ssml",
+    "speech",
+    "chat",
+    "bots"
+  ],
+  "author": "Wade Penistone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Truemedia/turndown-ssml/issues"
+  },
+  "homepage": "https://github.com/Truemedia/turndown-ssml#readme"
+}
